@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20%20jin-dooly's%20%20Githib!🙌🏻&fontSize=30&animation=blink&fontAlignY=35)
+
+
+
 
 <!--
 **jin-dooly/jin-dooly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
