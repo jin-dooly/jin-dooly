@@ -5,14 +5,16 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-  <br>
-<!--
+<br>
 <img src="https://img.shields.io/badge/react-%2361DAFB?style=flat-square&logo=react&logoColor=white">&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%339933?style=flat-square&logo=nodedotjs&logoColor=white">&nbsp
 <img alt="Static Badge" src="https://img.shields.io/badge/typescript-%233178C6?style=flat-square&logo=typescript&logoColor=white">
--->
+
 </p>
+
+
 <br>
+
 
 <h3 align="center">🐾 Follow Me</h3>
 <p align="center">
@@ -21,6 +23,30 @@
 </a>&nbsp
   <a href="mailto:jj074567@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
+
+<br>
+
+
+
+<!--
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-dooly&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **jin-dooly/jin-dooly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
