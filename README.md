@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20%20jin-dooly's%20%20Githib!🙌🏻&fontSize=30&animation=blink&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20%20jin-dooly's%20%20Githib!🙌🏻&fontSize=30&animation=blink&fontAlignY=35)
 
 <h3 align="center">🛠️ Teck Stack</h3>
 <p align="center">
